@@ -133,5 +133,9 @@
             "running": false
         }
 
-    ]
+    ],
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org"
+    }
+
 }
