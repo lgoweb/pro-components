@@ -11,7 +11,9 @@ interface Props {
 const App: React.FC<Props> = ({ size = 50 }) => {
   return (
     <div className={styles.bg} style={{ fontSize: `${size}px` }}>
-      🦟
+      <span role="img" aria-label="w">
+        🦟
+      </span>
     </div>
   );
 };
