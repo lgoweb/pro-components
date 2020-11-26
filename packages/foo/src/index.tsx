@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './index.less';
+import * as styles from './index.less';
 
 /**
  * 属性定义

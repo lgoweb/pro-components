@@ -27,6 +27,6 @@
     "jest.config.js",
     "**/fixtures",
     "./tests/no-duplicated.ts",
-    "packages/foo/demos"
+    "packages/**/*"
   ]
 }
