@@ -1,10 +1,10 @@
 {
-    "version": "independent",
-    "npmClient": "yarn",
-    "useWorkspaces": true,
-    "changelog": {
-        "repo": "lgoweb/pro-components",
-        "cacheDir": ".changelog"
-    },
-    "ignoreChanges": ["**/*.md", "**/*.test.ts", "**/*.e2e.ts", "**/fixtures/**", "**/test/**"]
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "changelog": {
+    "repo": "lgoweb/pro-components",
+    "cacheDir": ".changelog"
+  },
+  "ignoreChanges": ["**/*.md", "**/*.test.ts", "**/*.e2e.ts", "**/fixtures/**", "**/test/**"]
 }
