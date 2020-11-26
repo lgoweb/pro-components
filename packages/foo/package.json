@@ -11,6 +11,7 @@
         "dist",
         "es"
     ],
+    "homepage": "https://github.com/lgoweb/pro-components/tree/main/packages/foo#readme",
     "repository": {
         "type": "git",
         "url": "https://github.com/lgoweb/pro-components"

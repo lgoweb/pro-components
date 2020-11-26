@@ -127,13 +127,7 @@
         "commit-msg": "node scripts/verifyCommit.js"
     },
     "size-limit": [{
-            "path": "packages/utils/dist/**/*.js",
-            "limit": "100 s",
-            "webpack": false,
-            "running": false
-        },
-        {
-            "path": "packages/Foo/dist/**/*.js",
+            "path": "packages/foo/dist/**/*.js",
             "limit": "100 s",
             "webpack": false,
             "running": false

@@ -9,22 +9,20 @@ nav:
   path: /components
 ---
 
-# @ant-design/pro-foo
+# @lekp/pro-foo
 
 > @ant-design/pro-foo.
-
-See our website [@ant-design/pro-foo](https://umijs.org/plugins/foo) for more information.
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save @ant-design/pro-foo
+$ npm install --save @lekp/pro-foo
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-foo
+$ yarn add @lekp/pro-foo
 ```
