@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-beta.3](https://github.com/lgoweb/pro-components/compare/@lekp/pro-foo@1.0.0-beta.2...@lekp/pro-foo@1.0.0-beta.3) (2020-11-26)
+
+
+### Bug Fixes
+
+* publish config ([cec054d](https://github.com/lgoweb/pro-components/commit/cec054d5f98673020f7d6aa94b616361d25b44d0))
+
+
+
+
+
 # 1.0.0-beta.2 (2020-11-26)
 
 
