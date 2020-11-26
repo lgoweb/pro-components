@@ -1,6 +1,7 @@
 import React from 'react';
-import * as styles from './index.less';
+import './index.less';
 
+const prefixCls = 'foo-bg';
 /**
  * 属性定义
  */
@@ -10,7 +11,7 @@ interface Props {
 }
 const App: React.FC<Props> = ({ size = 50 }) => {
   return (
-    <div className={styles.bg} style={{ fontSize: `${size}px` }}>
+    <div className={prefixCls} style={{ fontSize: `${size}px` }}>
       <span role="img" aria-label="w">
         🦟
       </span>

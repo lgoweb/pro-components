@@ -13,10 +13,10 @@
     "declaration": true,
     "skipLibCheck": true,
     "paths": {
-      "@lekp/pro-foo": ["./packages/foo/src/index.tsx"],
-      "@lekp/pro-utils": ["./packages/utils/src/index.tsx"]
+      "@lekp/pro-foo": ["./packages/foo/src/index.tsx"]
     }
   },
+
   "include": [
     "**/src/**/*",
     "**/docs/**/*",
