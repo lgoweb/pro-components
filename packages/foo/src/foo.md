@@ -1,5 +1,5 @@
 ---
-title: ProLayout - 高级布局
+title: foo演示组件
 order: 0
 group:
   path: /
@@ -8,4 +8,8 @@ nav:
   path: /components
 ---
 
-# 介绍
+## 介绍
+
+<code src="../demos/base.tsx" />
+
+<API src="./index.tsx"></API>

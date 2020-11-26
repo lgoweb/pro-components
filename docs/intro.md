@@ -41,14 +41,6 @@ Ant Design 定义了基础的设计规范，对应也提供了大量的基础组
 
 在实际开发中我们也经常会碰到一些设计问题，比如经典的按钮应该放在左面还是右面，查询表单怎么布局，日期怎么格式化，数字的对齐问题，在重型组件中都进行了抽象。对于各种行为与样式我们都经过了设计师的讨论与设计，默认好看并且好用。
 
-## 参与贡献
-
-我们非常欢迎你的贡献，你可以通过以下方式和我们一起共建 :smiley:：
-
-- 在你的公司或个人项目中使用 Ant Design Pro，umi 和 ProComponents。
-- 通过 [Issue](http://github.com/ant-design/pro-components/issues) 报告 bug 或进行咨询。
-- 提交 [Pull Request](http://github.com/ant-design/pro-components/pulls) 改进 ProComponents 的代码。
-
 ### 脚手架概览
 
 当我们 clone 完项目之后会看到如下的目录结构。

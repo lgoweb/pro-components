@@ -11,11 +11,11 @@
     "sideEffects": [
         "*.less"
     ],
-    "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/utils#readme",
+    "homepage": "https://github.com/lgoweb/pro-components/tree/main/packages/utils#readme",
     "bugs": "http://github.com/umijs/plugins/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ant-design/pro-components"
+        "url": "https://github.com/lgoweb/pro-components"
     },
     "license": "MIT",
     "main": "lib/index.js",

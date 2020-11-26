@@ -1,7 +1,3 @@
-English | [简体中文](./README.zh-CN.md) | [Español](./README.es-PR.md)
+## 抽离于 @ant-design/pro-components
 
-# ProComponents
-
-## LICENSE
-
-MIT
+### 适用于公司组件开发
