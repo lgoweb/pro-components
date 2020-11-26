@@ -1,6 +1,6 @@
 {
     "name": "@lekp/pro-foo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "@lekp/pro-foo",
     "module": "es/index.js",
     "main": "lib/index.js",
