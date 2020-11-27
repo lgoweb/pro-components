@@ -38,6 +38,7 @@ export default {
             },
         ],
     ],
+    publicPath: process.env.NODE_ENV === 'production' ? '/pro-components/' : '/',
     metas: [{
             property: 'og:site_name',
             content: 'LekpComponents',
@@ -88,6 +89,7 @@ export default {
     //     } :
     //     false,
     hash: true,
+    exportStatic: {},
     ssr: {
         devServerRender: false,
     },
@@ -101,7 +103,6 @@ export default {
             antd: 'window.antd',
         } :
         {},
-    publicPath: process.env.NODE_ENV === 'production' ? '/pro-components/' : '/',
     targets: {
         chrome: 80,
         firefox: false,

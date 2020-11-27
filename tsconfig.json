@@ -1,1 +1,31 @@
-{"compilerOptions":{"baseUrl":"./","target":"esnext","moduleResolution":"node","jsx":"preserve","esModuleInterop":true,"experimentalDecorators":true,"strict":true,"forceConsistentCasingInFileNames":true,"noImplicitReturns":true,"suppressImplicitAnyIndexErrors":true,"declaration":true,"skipLibCheck":true,"paths":{"@lekp/pro-boo":["./packages/boo/src/index.tsx"],"@lekp/pro-coo":["./packages/coo/src/index.tsx"],"@lekp/pro-fff":["./packages/fff/src/index.tsx"],"@lekp/pro-foo":["./packages/foo/src/index.tsx"],"@lekp/pro-xss":["./packages/xss/src/index.tsx"]}},"include":["**/src/**/*","**/docs/**/*","scripts/**/*","**/demos",".eslintrc.js","tests","jest.config.js","**/fixtures","./tests/no-duplicated.ts","packages/**/*"]}
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "paths": {
+      "@lekp/pro-foo": ["./packages/foo/src/index.tsx"]
+    }
+  },
+  "include": [
+    "**/src/**/*",
+    "**/docs/**/*",
+    "scripts/**/*",
+    "**/demos",
+    ".eslintrc.js",
+    "tests",
+    "jest.config.js",
+    "**/fixtures",
+    "./tests/no-duplicated.ts",
+    "packages/**/*"
+  ]
+}
