@@ -101,7 +101,7 @@ export default {
             antd: 'window.antd',
         } :
         {},
-    base: '/pro-components',
+    publicPath: process.env.NODE_ENV === 'production' ? '/pro-components/' : '/',
     targets: {
         chrome: 80,
         firefox: false,
