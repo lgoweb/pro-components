@@ -38,7 +38,7 @@ export default {
             },
         ],
     ],
-    publicPath: process.env.NODE_ENV === 'production' ? '/pro-components/' : '/',
+    publicPath: process.env.NODE_ENV === 'production' ? '/pro-components/' : '/pro-components/',
     metas: [{
             property: 'og:site_name',
             content: 'LekpComponents',
