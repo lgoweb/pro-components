@@ -1,6 +1,6 @@
 {
   "name": "@lekp/pro-boo",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "@lekp/pro-boo",
   "module": "es/index.js",
   "main": "lib/index.js",

@@ -1,6 +1,23 @@
 # Change Log
 
-All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [1.1.0](https://github.com/lgoweb/pro-components/compare/@lekp/pro-foo@1.0.1...@lekp/pro-foo@1.1.0) (2020-11-27)
+
+
+### Bug Fixes
+
+* deploy ([f8faee8](https://github.com/lgoweb/pro-components/commit/f8faee88800e6bece39471b9ed4fd095767bbed7))
+
+
+### Features
+
+* 自动化加强，一键创建模版 yarn bootstrap foo，同时关联📦路径修改等 ([db4798a](https://github.com/lgoweb/pro-components/commit/db4798a63d8a38da4bd0870e6b733475cf64dc48))
+
+
+
+
 
 ## [1.0.1](https://github.com/lgoweb/pro-components/compare/@lekp/pro-foo@1.0.0-beta.3...@lekp/pro-foo@1.0.1) (2020-11-26)
 
