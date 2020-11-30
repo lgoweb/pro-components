@@ -8,7 +8,7 @@
 2. `yarn bootstrap foo` 创建模版内容
 3. `yarn start` 开发预览
 4. `yarn build` 手动打包
-5. `yarn release` 发布到 npm orginize 下,举例. 创建私有组织 love , 发布之后会注册到@love/pro-foo 下,必要条件 npm login 登录,通过 npm whoami 查看状态,git commit 完毕
+5. `yarn release` 发布到 npm organize 下,举例. 创建私有组织 love , 发布之后会注册到@love/pro-foo 下,必要条件 npm login 登录,通过 npm whoami 查看状态,git commit 完毕
 6. `yarn test&release` 先执行测试案例是否通过,再发版
 
 ## 效果
