@@ -1,6 +1,6 @@
 {
     "name": "@lekp/pro-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "@lekp/pro-theme",
     "module": "es/index.js",
     "main": "src/styles/variables.less",
