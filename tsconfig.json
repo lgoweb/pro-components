@@ -12,10 +12,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "declaration": true,
     "skipLibCheck": true,
-    "paths": {
-      "@lekp/pro-foo": ["./packages/foo/src/index.tsx"],
-      "@lekp/pro-theme": ["./packages/theme/src/index.tsx"]
-    }
+    "paths": { "@lekp/pro-foo": ["./packages/foo/src/index.tsx"] }
   },
   "include": [
     "**/src/**/*",

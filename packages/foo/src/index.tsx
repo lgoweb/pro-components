@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.less';
 
-const prefixCls = 'foo-bg';
+const prefixCls = `foo-bg`;
 /**
  * 属性定义
  */

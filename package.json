@@ -126,7 +126,8 @@
         "pre-commit": "pretty-quick --staged",
         "commit-msg": "node scripts/verifyCommit.js"
     },
-    "size-limit": [{
+    "size-limit": [
+        {
             "path": "packages/foo/dist/**/*.js",
             "limit": "100 s",
             "webpack": false,

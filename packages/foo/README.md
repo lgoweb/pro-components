@@ -1,5 +1,7 @@
 # @lekp/pro-foo
 
+> @lekp/pro-foo.
+
 ## Install
 
 Using npm:

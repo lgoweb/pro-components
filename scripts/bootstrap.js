@@ -122,6 +122,8 @@ declare module '*.svg';
       // src/components
       mkdirSync(srcDir + '/components');
 
+      mkdirSync(srcDir + '/components/.gitkeep');
+
       writeFileSync(
         join(__dirname, '..', 'packages', shortName, 'src', 'index.tsx'),
         `
