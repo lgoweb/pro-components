@@ -17,6 +17,33 @@
 
 ![image.png](https://i.loli.net/2020/11/27/hy7DWTGFaIncq6H.png)
 
+## 如何发布到公司内网环境
+
+### 修改外侧 package.json 文件
+
+```
+    "publishConfig": {
+        "registry": "http://npm.公司名.com.cn", // 修改为内网npm地址
+        "access": "public"
+    }
+```
+
+### 登陆私有 npm 服务器
+
+`npm login --registry=http://npm.公司名.com.cn`
+
+username 为 gitlab 用户名，如 admin 密码输入: token 或者密码
+
+### 如何使用?设置仓库源
+
+设置所有@lekp 开头的模块均从私有 npm 下载
+
+`npm config set @lekp:registry http://npm.公司名.com.cn/`
+
+### 全局安装 @lekp/pro-foo
+
+`yarn global add @lekp/pro-foo`
+
 ## 目录结构
 
 ```bash
