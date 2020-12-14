@@ -6,6 +6,7 @@ group:
 nav:
   title: 组件
   path: /components
+toc: menu
 ---
 
 ## 介绍
@@ -13,3 +14,7 @@ nav:
 <code src="../demos/base.tsx" />
 
 <API src="./index.tsx"></API>
+
+## 测试
+
+<V src="./index.tsx"></V>
